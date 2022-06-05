@@ -12,6 +12,7 @@ struct M2: View {
         NavigationLink {
             FnBMenu()
         } label: {
+            PB(text1: "Food n Beverage", text2: "mkn mnm")
 //            Button (Text "Hai")
 //            VStack() {
 //                HStack {
