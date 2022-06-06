@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        M2()
+        TB()
         
 //        VStack {
 //            VStack() {
